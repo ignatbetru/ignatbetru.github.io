@@ -1625,10 +1625,10 @@ button.button.button-white,input[type=submit].button.button-white{
 	}
 /* 	.section-statistic__table{
 		overflow-x: scroll;
-	} */
+	}
 	.section-statistic__table table{
 		width: 890px;
-	}
+	} */
 	.section-statistic__table thead td{
 		padding: 10px 5px;
 	}
@@ -1924,9 +1924,9 @@ button.button.button-white,input[type=submit].button.button-white{
 	.section-questions__col{
 		width: 100%;
 	}
-	.section-statistic__table table {
+/* 	.section-statistic__table table {
     	width: 700px;
-	}
+	} */
 	.section-questions{
 		padding: 27px 0 50px;
 	}
