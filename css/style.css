@@ -1623,9 +1623,9 @@ button.button.button-white,input[type=submit].button.button-white{
 	.section-statistic:after{
 		display: none;
 	}
-	.section-statistic__table{
+/* 	.section-statistic__table{
 		overflow-x: scroll;
-	}
+	} */
 	.section-statistic__table table{
 		width: 890px;
 	}
